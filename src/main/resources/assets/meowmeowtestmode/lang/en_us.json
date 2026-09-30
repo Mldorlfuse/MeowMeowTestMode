@@ -1,0 +1,13 @@
+{
+  "itemGroup.meowmeowtestmode": "Example Mod Tab",
+  "block.meowmeowtestmode.example_block": "Example Block",
+  "item.meowmeowtestmode.example_item": "Example Item",
+
+  "meowmeowtestmode.configuration.title": "MeowMeowTestMode Configs",
+  "meowmeowtestmode.configuration.section.meowmeowtestmode.common.toml": "MeowMeowTestMode Configs",
+  "meowmeowtestmode.configuration.section.meowmeowtestmode.common.toml.title": "MeowMeowTestMode Configs",
+  "meowmeowtestmode.configuration.items": "Item List",
+  "meowmeowtestmode.configuration.logDirtBlock": "Log Dirt Block",
+  "meowmeowtestmode.configuration.magicNumberIntroduction": "Magic Number Text",
+  "meowmeowtestmode.configuration.magicNumber": "Magic Number"
+}
